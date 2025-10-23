@@ -1,1 +1,1 @@
-Hello :)) 
+Hello, this is a basic implementation of the RBMC method from the following papaer. We've considered the case where our potential is quadratic in both the confining and interacting potential. We've used the Euler-Maruyama discretisation to generate our sample paths. We then plot our RB sample paths. The implementation is bsased on this paper: https://doi.org/10.48550/arXiv.2310.00544 
